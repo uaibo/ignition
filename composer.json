@@ -1,6 +1,7 @@
 {
     "name": "facade/ignition",
     "version": "2.17.6",
+    "minimum-stability": "dev",
     "description": "A beautiful error page for Laravel applications.",
     "keywords": [
         "error",
